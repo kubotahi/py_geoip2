@@ -12,7 +12,6 @@ https://www.maxmind.com/
 # python
 ```
 pip3 install geoip2
-pip3 uninstall scapy
 ```
 
 
