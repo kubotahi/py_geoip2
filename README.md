@@ -23,3 +23,12 @@ Ubuntu
 sudo apt install traceroute
 ```
 
+
+# geopy
+```
+https://github.com/geopy/geopy
+郵便番号から緯度経度
+
+pip3 install geopy
+```
+
